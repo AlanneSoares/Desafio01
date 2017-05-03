@@ -1,0 +1,16 @@
+.button {
+    margin: 5px 0px 0px 0px;
+}
+
+.table {
+    height: 100px;
+    width: 162px;
+    margin-top: 15px;
+
+}
+
+.textarea {
+    height: 90px;
+    width: 200px;
+    padding: 5px;
+}
